@@ -1,4 +1,0 @@
-Este foi um desafio proposto pela Layers Education, para conseguirmos realizar a inscrição para a Maratona de Programação. 
-Este desafio consistiu em descobrir dois caracteres faltantes no link encaminhado, através do hash MD5 que foi indicado, para que assim conseguissemos acesso para a realização da inscrição!
-Utilizei a Linguagem Python, e sua documentação como base para entender um pouco sobre o assunto. Fiz comparações de cada caracter, combinações possíveis e testes com o hash! Para cada tentativa, o programa montava o link completo, gerava o MD5 e comparava com o hash esperado.
-Me ajudou a entender sobre hash, segurança e comparação de dados.
